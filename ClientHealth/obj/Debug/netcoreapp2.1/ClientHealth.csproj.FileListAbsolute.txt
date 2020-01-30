@@ -1,0 +1,14 @@
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\bin\Debug\netcoreapp2.1\ClientHealth.deps.json
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\bin\Debug\netcoreapp2.1\ClientHealth.runtimeconfig.json
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\bin\Debug\netcoreapp2.1\ClientHealth.runtimeconfig.dev.json
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\bin\Debug\netcoreapp2.1\ClientHealth.dll
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\bin\Debug\netcoreapp2.1\ClientHealth.pdb
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.csprojAssemblyReference.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.csproj.CoreCompileInputs.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.RazorAssemblyInfo.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.RazorAssemblyInfo.cs
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.AssemblyInfoInputs.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.AssemblyInfo.cs
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.RazorTargetAssemblyInfo.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.dll
+C:\Users\Minfy\source\repos\LearnEFWebApp\ClientHealth\obj\Debug\netcoreapp2.1\ClientHealth.pdb

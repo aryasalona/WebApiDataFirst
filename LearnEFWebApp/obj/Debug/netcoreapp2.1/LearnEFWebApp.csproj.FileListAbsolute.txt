@@ -1,0 +1,14 @@
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\bin\Debug\netcoreapp2.1\LearnEFWebApp.deps.json
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\bin\Debug\netcoreapp2.1\LearnEFWebApp.runtimeconfig.json
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\bin\Debug\netcoreapp2.1\LearnEFWebApp.runtimeconfig.dev.json
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\bin\Debug\netcoreapp2.1\LearnEFWebApp.dll
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\bin\Debug\netcoreapp2.1\LearnEFWebApp.pdb
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.csprojAssemblyReference.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.RazorAssemblyInfo.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.RazorAssemblyInfo.cs
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.AssemblyInfoInputs.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.AssemblyInfo.cs
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.dll
+C:\Users\Minfy\source\repos\LearnEFWebApp\LearnEFWebApp\obj\Debug\netcoreapp2.1\LearnEFWebApp.pdb
